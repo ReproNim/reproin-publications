@@ -537,17 +537,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1203.7557"
-     inkscape:cy="2023.8166"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1232.8469"
+     inkscape:cy="2005.8792"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g5425"
      showgrid="false"
      units="in"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1369"
+     inkscape:window-width="1780"
+     inkscape:window-height="1014"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="0"
@@ -605,7 +605,7 @@
        id="guide308"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="305.32872,947.41704"
+       position="306.07707,532.08019"
        orientation="1,0"
        id="guide166"
        inkscape:locked="false" />
@@ -655,23 +655,71 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#e6e6e6;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect168"
        width="290.27777"
-       height="160.28008"
+       height="189.46591"
        x="9.064105"
        y="104.74897" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect1661"
-       width="294.16809"
+       width="288.9296"
        height="444.91702"
-       x="306.07706"
+       x="311.31555"
        y="103.69067" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect1664"
        width="290.3616"
-       height="671.27417"
+       height="599.43213"
        x="10.476962"
-       y="270.96808" />
+       y="303.89569" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="acknow">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555763px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="656.33044"
+       y="423.54913"
+       id="text5065-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan5063-9-8"
+         x="656.33044"
+         y="423.54913"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555763px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';stroke-width:0.26458335px">Acknowledgments</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="References">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555859px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="647.22119"
+       y="475.60114"
+       id="text5065-8-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan5063-9-8-5"
+         x="647.22119"
+         y="475.60114"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555859px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';stroke-width:0.26458335px">References</tspan></text>
+  </g>
+  <g
+     inkscape:label="resources"
+     id="g5425"
+     inkscape:groupmode="layer">
+    <text
+       id="text5423"
+       y="530.23102"
+       x="647.22119"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555859px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555859px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';stroke-width:0.26458335px"
+         y="530.23102"
+         x="647.22119"
+         id="tspan5421"
+         sodipodi:role="line">Resources</tspan></text>
   </g>
   <g
      inkscape:label="title"
@@ -726,13 +774,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666718px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="87.346573"
-       y="-524.72675"
+       x="87.875732"
+       y="-523.6684"
        id="text103"><tspan
          sodipodi:role="line"
          id="tspan101"
-         x="87.346573"
-         y="-524.72675"
+         x="87.875732"
+         y="-523.6684"
          style="stroke-width:0.26458335px"><tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan114">1</tspan>Dartmouth College, <tspan
@@ -797,24 +845,125 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="intro">
-    <image
-       sodipodi:absref="/Users/contematto/github/reproin-publications/posters/../images/dbic-conversions.png"
-       xlink:href="../images/dbic-conversions.png"
-       width="331.78751"
-       height="442.91251"
-       preserveAspectRatio="none"
-       id="image1307"
-       x="328.34793"
-       y="153.19376" />
+     inkscape:label="images">
     <image
        sodipodi:absref="/Users/contematto/github/reproin-publications/posters/../images/dbic-flow.png"
        xlink:href="../images/dbic-flow.png"
-       width="327.55417"
-       height="142.875"
+       style="stroke-width:1.15315557"
+       width="280"
+       height="125.69139"
        preserveAspectRatio="none"
        id="image1369"
-       x="-26.722921"
-       y="114.3" />
+       x="15.610412"
+       y="327.80435" />
+    <image
+       sodipodi:absref="/Users/contematto/github/reproin-publications/posters/../images/dbic-conversions.png"
+       xlink:href="../images/dbic-conversions.png"
+       width="280"
+       height="373.77991"
+       preserveAspectRatio="none"
+       id="image1307"
+       x="315.36917"
+       y="88.990822"
+       style="stroke-width:1.18495536" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="intro">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555573px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15.875001"
+       y="119.06251"
+       id="text5065"><tspan
+         sodipodi:role="line"
+         id="tspan5063"
+         x="15.875001"
+         y="119.06251"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555573px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';stroke-width:0.26458335px">Introduction</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5072"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458334,0,0,0.26458334,-2.6458334,-7.9375003)"><flowRegion
+         id="flowRegion5074"
+         style="text-align:justify;text-anchor:start"><rect
+           id="rect5076"
+           width="514.54413"
+           height="880"
+           x="68"
+           y="506"
+           style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5098">The formalization of the Brain Imaging Data Structure (BIDS, Gorgolewski et al., 2016)  made it easier for researchers to collaborate on shared data and to benefit from standardized processing using various BIDS-aware application. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5072-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458334,0,0,0.26458334,-2.6524474,81.028818)"><flowRegion
+         id="flowRegion5074-9"
+         style="text-align:justify;text-anchor:start"><rect
+           id="rect5076-0"
+           width="506.8873"
+           height="276"
+           x="68"
+           y="506"
+           style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5098-1">At Dartmouth, following the philosophy that science should be open by design (Halchenko &amp; Hanke, 2015), we automated the collection of neuroimaging data as a hierarchy of BIDS datasets right from the MR scanner. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5072-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458334,0,0,0.26458334,143.39754,-7.8711843)"><flowRegion
+         id="flowRegion5074-1"
+         style="text-align:justify;text-anchor:start"><rect
+           id="rect5076-3"
+           width="494.74518"
+           height="399.16739"
+           x="68"
+           y="506"
+           style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5098-12">Using BIDS standard allows investigators to immediately use BIDS-aware applications for data QA (e.g., bids-validator, MRIQC, Esteban et al. 2017) to catch obvious problems with data acquisition, and to automate preprocessing and analysis. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5072-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458334,0,0,0.26458334,142.66477,81.852381)"><flowRegion
+         id="flowRegion5074-0"
+         style="text-align:justify;text-anchor:start"><rect
+           id="rect5076-4"
+           width="506.05887"
+           height="891.31372"
+           x="68"
+           y="506"
+           style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5092-1">The entire process occurs in a Singularity container (Kurtzer et al., 2017), and all data is version-controlled with DataLad and git.</flowPara><flowPara
+         id="flowPara5096-9" /><flowPara
+         id="flowPara5098-5" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5072-5-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458334,0,0,0.26458334,141.05565,130.37674)"><flowRegion
+         id="flowRegion5074-0-8"
+         style="text-align:justify;text-anchor:start"><rect
+           id="rect5076-4-8"
+           width="506.05887"
+           height="891.31372"
+           x="68"
+           y="506"
+           style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5098-5-3">Our approach eliminates virtually any ambiguity in data provenance.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="methods">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555668px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="14.786851"
+       y="318.91821"
+       id="text5065-8"><tspan
+         sodipodi:role="line"
+         id="tspan5063-9"
+         x="14.786851"
+         y="318.91821"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.40555668px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';stroke-width:0.26458335px">Methods</tspan></text>
   </g>
 </svg>
